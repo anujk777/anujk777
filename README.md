@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anuj Kumar Chaudhary  
+Qa# 👋 Hi, I'm Anuj Kumar Chaudhary  
 
 🎓 **B.Tech Student | Computer Science & Engineering**  
 📍 Gr. Noida, U.P. | 📧 [anujkr3868@gmail.com](mailto:anujkr3868@gmail.com) | 📱 7081277222  
@@ -74,7 +74,7 @@ Created a system that allows users to **create, license, and manage copywriting 
 ## 🎓 Education  
 **Bachelor of Technology – Computer Science & Engineering**  
 📍 _Dronacharya Group of Institutions, Gr. Noida (2023 – 2027)_  
-📊 CGPA: **7.1**
+📊 CGPA: **7.7*
 
 ---
 
